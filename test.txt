@@ -1,2 +1,3 @@
 a= b - c
 blue kite and orange of sunside
+stranger
